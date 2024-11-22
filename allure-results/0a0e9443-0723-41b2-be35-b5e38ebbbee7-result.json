@@ -1,0 +1,70 @@
+{
+    "uuid": "0a0e9443-0723-41b2-be35-b5e38ebbbee7",
+    "historyId": "eb3465c7c66a3a934b431474696a0fe9",
+    "fullName": "PIM.EmployeeTest.NavigateToAddEmployee",
+    "labels": [
+        {
+            "name": "package",
+            "value": "PIM.EmployeeTest"
+        },
+        {
+            "name": "testClass",
+            "value": "PIM.EmployeeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "NavigateToAddEmployee"
+        },
+        {
+            "name": "parentSuite",
+            "value": "Default Suite"
+        },
+        {
+            "name": "suite",
+            "value": "DEPI-GP"
+        },
+        {
+            "name": "subSuite",
+            "value": "PIM.EmployeeTest"
+        },
+        {
+            "name": "host",
+            "value": "3bde1r7man"
+        },
+        {
+            "name": "thread",
+            "value": "18220@3bde1r7man.main(1)"
+        },
+        {
+            "name": "framework",
+            "value": "testng"
+        },
+        {
+            "name": "language",
+            "value": "java"
+        },
+        {
+            "name": "owner",
+            "value": "Nouran"
+        }
+    ],
+    "links": [
+        {
+            "name": "https://ahmed22968337.atlassian.net/browse/DEPI235-379",
+            "type": "issue"
+        }
+    ],
+    "name": "This test will Verify that admin can add New Employee",
+    "status": "passed",
+    "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "start": 1729778295088,
+    "stop": 1729778296871
+}

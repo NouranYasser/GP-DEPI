@@ -1,0 +1,25 @@
+{
+    "uuid": "7f288fcd-328e-4ced-a7c7-07e194f6a3a2",
+    "name": "PIM.ReportsTest",
+    "children": [
+        "477af1f4-ea8a-469c-9c5e-081c1cc0de22",
+        "8cd8688c-9644-46d7-aeb5-7f094110ee83",
+        "53e19cbc-d6c0-47d3-b3ec-a228a7b29896"
+    ],
+    "befores": [
+        {
+            "name": "setUp",
+            "status": "passed",
+            "stage": "finished",
+            "description": "",
+            "steps": [],
+            "attachments": [],
+            "parameters": [],
+            "start": 1729778311854,
+            "stop": 1729778311854
+        }
+    ],
+    "afters": [],
+    "start": 1729778305689,
+    "stop": 1729778313960
+}
